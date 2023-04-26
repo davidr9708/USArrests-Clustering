@@ -21,21 +21,14 @@ Used a k-means clustering to identify the three relevant clusters. I proposed on
 To improve the interpretation, I ran an ANOVA and Pairwise comparison testing the difference among the urban population among the clusters
 
 # 4. Results
-Clusters can be classified as:
+The clusters found can be classified as:
 - Low crime rates
 - Medium crime rates
 - High crime rates
 
-Something to highlight is **low crime rates cluster** was the only one with a lower mean percentage of urban population, this might mean: 
-- # Interpretation
-## 3 clusters: High, medium, and low rates
-## Urban variable presents a different behavior
-### Medium urban pop have the highest rates, followed by the Highest and lowest urban pop
-
-## Questions wondered
-### Is there an under report about the crimes in the rural area and the crimes decrease when the urban pop increases?
-### These crimes are related to urbanization but high urbanized areas has been able to overcome those ones
-### but those in development still needs assistance to overcome them?
+Something to highlight is **low crime rates cluster** was the only one with a lower mean percentage of urban population, the possible hypotheses might be: 
+- There is an underreporting about the crime cases in rural states, which might explain why they got the lowest crime rates.
+- Urbanization is associated with higher crime rates due to the challenges that its life style carries.
 
 # 5. Conclusion and next steps
 
