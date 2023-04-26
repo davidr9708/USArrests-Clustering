@@ -1,16 +1,15 @@
-# USArrests-Clustering
-# Alone: Survival Analysis
+# USArrests Clustering
 
 ## Table of Contents
-- [1. Question](Question) |
-- [2. Purpose](Purpose) |
-- [2. Purpose](Purpose) |
-- [2. Purpose](Purpose) |
-- [2. Purpose](Purpose) |
-- [2. Purpose](Purpose) |
+- [1. Hypothetical Scenario](Question)
+- [2. Question](2. Question) 
+- [3. Analysis](3. Analysis) 
+- [4. Results and interpretation](4. Results and interpretation) 
+- [5. Next steps]( 5. Next steps) 
+- [6. Limitations](6. Limitations)
+- - [7. Warning](6. Limitations) 
 
-
-## 1. Hypothetical Scenario:
+## 1. Hypothetical Scenario
 Governmental authorities desires to reduce crime rates in their states, however, they need to identify these states in three groups to know how to approach to each them. 
 
 ## 2. Question
@@ -41,5 +40,5 @@ The **low crime rates cluster** was the only one with a lower mean percentage of
 ## 6. Limitations
 - Survival bias: The analysis didn't analyse trends, only one snapshot at the time.
 
-## 7. Warning:
+## 7. Warning
 The scenario proposed is hypothetical, designed to develop analytical skills applied in a real scenario.
