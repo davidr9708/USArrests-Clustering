@@ -1,13 +1,13 @@
 # USArrests Clustering
 
 ## Table of Contents
-- 1. Hypothetical Scenario
-- 2. Question
-- 3. Analysis
-- 4. Results and interpretation
-- 5. Next steps
-- 6. Limitations
-- 7. Warning 
+1. Hypothetical Scenario
+2. Question
+3. Analysis
+4. Results and interpretation
+5. Next steps
+6. Limitations
+7. Warning 
 
 ## 1. Hypothetical Scenario
 Governmental authorities desires to reduce crime rates in their states, however, they need to identify these states in three groups to know how to approach to each them. 
