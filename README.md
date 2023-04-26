@@ -1,7 +1,7 @@
 # USArrests Clustering
 
 ## Table of Contents
-- [1. Hypothetical Scenario](#1.-Hypothetical-Scenario)
+- [1. Hypothetical Scenario](##1.-Hypothetical-Scenario)
 - [2. Question](#1. Question) 
 - [3. Analysis](Analysis) 
 - [4. Results and interpretation](Results) 
