@@ -29,6 +29,8 @@ The clusters found can be classified as:
 - Medium crime rates
 - High crime rates
 
+![](Clusters.png)
+
 The **low crime rates cluster** was the only one with a lower mean percentage of urban population, the possible hypotheses might be: 
 - There is an underreporting about the crime cases in rural states, which might explain why they got the lowest crime rates.
 - Urbanization is associated with higher crime rates due to the challenges that its life style carries.
