@@ -24,13 +24,13 @@ Used a k-means clustering to identify the three relevant clusters. I proposed on
 To improve the interpretation, I ran an ANOVA and Pairwise comparison testing the difference among the urban population among the clusters
 
 ## 4. Results and interpretation
-![](Clusters.png)
+![](clusters.png)
 
-| Cluster            | Murder   | Assault  | UrbanPop | Rape    |
-| ------------------| --------| ---------| ---------|---------|
-| Low crime rates    | 3.600   | 78.538   | 52.076   | 12.176  |
-| High crime rates   | 12.165  | 255.250  | 68.400   | 29.165  |
-| Medium crime rates | 5.841   | 141.882  | 72.470   | 18.823  |
+| Cluster            | Murder   | Assault  | Rape    | UrbanPop |
+| ------------------| --------| ---------|---------|----------|
+| Low crime rates    | 3.600   | 78.538   | 12.176  | 52.076   |
+| High crime rates   | 12.165  | 255.250  | 29.165  | 68.400   |
+| Medium crime rates | 5.841   | 141.882  | 18.823  | 72.470   |
 
 
 The **low crime rates cluster** was the only one with a lower mean percentage of urban population, the possible hypotheses might be: 
