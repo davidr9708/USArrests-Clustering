@@ -32,10 +32,6 @@ To improve the interpretation, I ran an ANOVA and Pairwise comparison testing th
 | High crime rates   | 12.165  | 255.250  | 68.400   | 29.165  |
 | Medium crime rates | 5.841   | 141.882  | 72.470   | 18.823  |
 
-The clusters found can be classified as:
-- Low crime rates
-- Medium crime rates
-- High crime rates
 
 The **low crime rates cluster** was the only one with a lower mean percentage of urban population, the possible hypotheses might be: 
 - There is an underreporting about the crime cases in rural states, which might explain why they got the lowest crime rates.
