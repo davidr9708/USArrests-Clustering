@@ -1,5 +1,8 @@
+# 0. Library
+library(ggpubr)
+
 # 1. Load data
-load(file = 'Results/Results.Rdata')
+load(file = 'Results/Results.Rda')
 
 # 2. Apply ANOVA
 ## 2.1 Verify assumptions
@@ -30,3 +33,7 @@ load(file = 'Results/Results.Rdata')
 
 ### 4. Pairwise comparison
     tukey_hsd(aov(UrbanPop ~ cluster, data = raw_data))
+
+
+rm(list = ls())
+    
